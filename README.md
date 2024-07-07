@@ -9,4 +9,5 @@ A cracker app for bandicam (NOT A VIRUS! TESTED ON MY PC)
 5. Put it in the root of your bandicam installation
 6. Start keymaker.exe as administrator
 7. Enter an email address (yours or an random email address)
-8. Enjoy
+8. Click on Register application!
+9. Enjoy
